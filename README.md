@@ -49,5 +49,3 @@ Registers are used to synchronize inputs and outputs.
 - Comprehensive testing for all possible 6-bit input values.
 - Error introduced and successfully detected during verification.
 - Latency analysis to determine the maximum operating clock frequency.
-
-## Repository Structure
